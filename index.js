@@ -57,7 +57,7 @@ const server = http.createServer((req, res) => {
     <body>
       <div class="container">
         <h1 class="glow">${greeting} 🚀</h1>
-        <p>Servidor personalizado de Node.js corriendo en <strong>http://localhost:3000</strong></p>
+        <p>Servidor personalizado por Angeles corriendo en <strong>http://localhost:3000</strong></p>
       </div>
     </body>
     </html>
